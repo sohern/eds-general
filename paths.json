@@ -1,4 +1,4 @@
-a{
+{
   "mappings": [
     "/content/sean-demo/:/",
     "/content/sean-demo/configuration:/.helix/config.json",
