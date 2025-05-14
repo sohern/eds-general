@@ -1,10 +1,10 @@
-{
+a{
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/sean-demo/:/",
+    "/content/sean-demo/configuration:/.helix/config.json",
+    "/content/sean-demo/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/sean-demo/"
   ]
 }
